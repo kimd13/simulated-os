@@ -5,7 +5,7 @@ The project is divided into two separate modules:
 * `memory-manager`
 * `process-resource-manager`
 
-Each module is run separately and contain a designated `Main.kt` file.
+Each module is run separately and contain a designated `Main.kt` file. Instructions to operate each component are presented in the beginning of each run.
 
 ## Development
 
