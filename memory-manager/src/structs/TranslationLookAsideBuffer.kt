@@ -1,0 +1,4 @@
+package structs
+
+class TranslationLookAsideBuffer {
+}

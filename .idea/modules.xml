@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/memory-manager/memory-manager.iml" filepath="$PROJECT_DIR$/memory-manager/memory-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/process-resource-manager/process-resource-manager.iml" filepath="$PROJECT_DIR$/process-resource-manager/process-resource-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simulated-os.iml" filepath="$PROJECT_DIR$/simulated-os.iml" />
+    </modules>
+  </component>
+</project>
